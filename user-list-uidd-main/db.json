@@ -1,0 +1,292 @@
+{
+  "users": [
+    {
+      "id": "12312jadf",
+      "name": {
+        "first": "Jim",
+        "last": "Whate"
+      },
+      "tags": ["steam", "clothes", "frames"],
+      "headshot": "/images/head-1.jpg",
+      "location": "Cincinnati, OH",
+      "dateJoined": "2023-11-01",
+      "area": "Marketing"
+    },
+    {
+      "id": "user2-id",
+      "name": {
+        "first": "John",
+        "last": "Doe"
+      },
+      "tags": ["gaming", "technology"],
+      "headshot": "/images/head-2.jpg",
+      "location": "New York, NY",
+      "dateJoined": "2023-10-20",
+      "area": "Marketing"
+    },
+    {
+      "id": "user3-id",
+      "name": {
+        "first": "Sarah",
+        "last": "Johnson"
+      },
+      "tags": ["art", "painting", "creativity"],
+      "headshot": "/images/head-3.jpg",
+      "location": "Los Angeles, CA",
+      "dateJoined": "2023-09-15",
+      "area": "Marketing"
+    },
+    {
+      "id": "user4-id",
+      "name": {
+        "first": "Emily",
+        "last": "Smith"
+      },
+      "tags": ["nature", "photography"],
+      "headshot": "/images/head-4.jpg",
+      "location": "Seattle, WA",
+      "dateJoined": "2023-08-02",
+      "area": "Design"
+    },
+    {
+      "id": "user5-id",
+      "name": {
+        "first": "Michael",
+        "last": "Brown"
+      },
+      "tags": ["music", "instruments"],
+      "headshot": "/images/head-5.jpg",
+      "location": "Nashville, TN",
+      "dateJoined": "2023-07-11",
+      "area": "Music"
+    },
+    {
+      "id": "user6-id",
+      "name": {
+        "first": "Jennifer",
+        "last": "Lee"
+      },
+      "tags": ["fashion", "styling"],
+      "headshot": "/images/head-6.jpg",
+      "location": "London, England",
+      "dateJoined": "2023-06-18",
+      "area": "Design"
+    },
+    {
+      "id": "user7-id",
+      "name": {
+        "first": "David",
+        "last": "Williams"
+      },
+      "tags": ["movies", "cinema"],
+      "headshot": "/images/head-7.jpg",
+      "location": "Los Angeles, CA",
+      "dateJoined": "2023-05-05",
+      "area": "Design"
+    },
+    {
+      "id": "user8-id",
+      "name": {
+        "first": "Jessica",
+        "last": "Garcia"
+      },
+      "tags": ["fitness", "health"],
+      "headshot": "/images/head-8.jpg",
+      "location": "Miami, FL",
+      "dateJoined": "2023-04-14",
+      "area": "Coding"
+    },
+    {
+      "id": "user9-id",
+      "name": {
+        "first": "Matthew",
+        "last": "Anderson"
+      },
+      "tags": ["cooking", "food"],
+      "headshot": "/images/head-9.jpg",
+      "location": "San Francisco, CA",
+      "dateJoined": "2023-03-23",
+      "area": "Coding"
+    },
+    {
+      "id": "user10-id",
+      "name": {
+        "first": "Sophia",
+        "last": "Martinez"
+      },
+      "tags": ["travel", "exploration"],
+      "headshot": "/images/head-10.jpg",
+      "location": "Barcelona, Spain",
+      "dateJoined": "2023-02-09",
+      "area": "Coding"
+    },
+    {
+      "id": "user11-id",
+      "name": {
+        "first": "Daniel",
+        "last": "Nguyen"
+      },
+      "tags": ["coding", "programming"],
+      "headshot": "/images/head-11.jpg",
+      "location": "San Francisco, CA",
+      "dateJoined": "2023-01-19",
+      "area": "Coding"
+    },
+    {
+      "id": "user12-id",
+      "name": {
+        "first": "Olivia",
+        "last": "Taylor"
+      },
+      "tags": ["writing", "literature"],
+      "headshot": "/images/head-12.jpg",
+      "location": "New York, NY",
+      "dateJoined": "2022-12-27",
+      "area": "Coding"
+    },
+    {
+      "id": "user13-id",
+      "name": {
+        "first": "Anthony",
+        "last": "Moore"
+      },
+      "tags": ["photography", "videography"],
+      "headshot": "/images/head-13.jpg",
+      "location": "Chicago, IL",
+      "dateJoined": "2022-11-15",
+      "area": "Design"
+    },
+    {
+      "id": "user14-id",
+      "name": {
+        "first": "Charlotte",
+        "last": "White"
+      },
+      "tags": ["writing", "editing"],
+      "headshot": "/images/head-14.jpg",
+      "location": "Austin, TX",
+      "dateJoined": "2022-10-28",
+      "area": "Content"
+    },
+    {
+      "id": "user15-id",
+      "name": {
+        "first": "Brandon",
+        "last": "Clark"
+      },
+      "tags": ["gaming", "streaming"],
+      "headshot": "/images/head-15.jpg",
+      "location": "Las Vegas, NV",
+      "dateJoined": "2022-09-19",
+      "area": "Music"
+    },
+    {
+      "id": "user16-id",
+      "name": {
+        "first": "Hannah",
+        "last": "Harris"
+      },
+      "tags": ["fitness", "wellness"],
+      "headshot": "/images/head-16.jpg",
+      "location": "Denver, CO",
+      "dateJoined": "2022-08-11",
+      "area": "Coding"
+    },
+    {
+      "id": "user17-id",
+      "name": {
+        "first": "Ethan",
+        "last": "Lewis"
+      },
+      "tags": ["technology", "gadgets"],
+      "headshot": "/images/head-17.jpg",
+      "location": "San Jose, CA",
+      "dateJoined": "2022-07-30",
+      "area": "Tech"
+    },
+    {
+      "id": "user18-id",
+      "name": {
+        "first": "Lily",
+        "last": "Walker"
+      },
+      "tags": ["art", "design"],
+      "headshot": "/images/head-18.jpg",
+      "location": "Portland, OR",
+      "dateJoined": "2022-06-21",
+      "area": "Design"
+    },
+    {
+      "id": "user19-id",
+      "name": {
+        "first": "Christopher",
+        "last": "Scott"
+      },
+      "tags": ["business", "finance"],
+      "headshot": "/images/head-19.jpg",
+      "location": "Boston, MA",
+      "dateJoined": "2022-05-12",
+      "area": "Tech"
+    },
+    {
+      "id": "user20-id",
+      "name": {
+        "first": "Victoria",
+        "last": "Young"
+      },
+      "tags": ["fashion", "makeup"],
+      "headshot": "/images/head-20.jpg",
+      "location": "Paris, France",
+      "dateJoined": "2022-04-05",
+      "area": "Fashion"
+    },
+    {
+      "id": "user21-id",
+      "name": {
+        "first": "Andrew",
+        "last": "Green"
+      },
+      "tags": ["sports", "fitness"],
+      "headshot": "/images/head-21.jpg",
+      "location": "Sydney, Australia",
+      "dateJoined": "2022-03-27",
+      "area": "Tech"
+    },
+    {
+      "id": "user22-id",
+      "name": {
+        "first": "Grace",
+        "last": "Baker"
+      },
+      "tags": ["science", "research"],
+      "headshot": "/images/head-22.jpg",
+      "location": "Cambridge, UK",
+      "dateJoined": "2022-02-14",
+      "area": "Content"
+    },
+    {
+      "id": "user23-id",
+      "name": {
+        "first": "Benjamin",
+        "last": "Adams"
+      },
+      "tags": ["architecture", "design"],
+      "headshot": "/images/head-23.jpg",
+      "location": "Berlin, Germany",
+      "dateJoined": "2022-01-03",
+      "area": "Architecture"
+    },
+    {
+      "id": "user24-id",
+      "name": {
+        "first": "Zoe",
+        "last": "Nelson"
+      },
+      "tags": ["photography", "travel"],
+      "headshot": "/images/head-24.jpg",
+      "location": "Tokyo, Japan",
+      "dateJoined": "2021-12-17",
+      "area": "Coding"
+    }
+  ]
+}
